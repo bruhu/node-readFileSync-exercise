@@ -1,0 +1,23 @@
+{
+  "name": "readfilesync-exercise",
+  "version": "1.0.0",
+  "description": "- Create a node project - npm init - add nodemon and create a dev script - Read the package json display:   - use readFileSync",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bruhu/node-readFileSync-exercise.git"
+  },
+  "author": "bruhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bruhu/node-readFileSync-exercise/issues"
+  },
+  "homepage": "https://github.com/bruhu/node-readFileSync-exercise#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
